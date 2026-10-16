@@ -2,47 +2,44 @@
 
 ### Hi, I'm Marius.
 
-I'm a **Computer Science master's student at the University of Copenhagen (DIKU)**, interested in **cybersecurity, software engineering, and reliable systems**.
+I'm a **Computer Science master's student at the University of Copenhagen (DIKU)** with an interest in **cybersecurity, software engineering, and reliable systems**.
 
-I enjoy building full-stack applications and backend services, understanding how software works under the hood, and exploring how to make it more secure.
+I enjoy building full-stack applications and backend services, understanding systems under the hood, and making software more secure and maintainable.
 
-**Currently exploring:** Cybersecurity · Backend engineering · Software architecture
+**Current interests:** Cybersecurity · Backend engineering · Software architecture
 
-[**Languages & tools**](#languages--tools) · [**Background**](#background) · [**Repositories**](https://github.com/mariusgreiersen?tab=repositories)
+[**Tech stack**](#tech-stack) · [**Background**](#background) · [**Repositories**](https://github.com/mariusgreiersen?tab=repositories)
 
 ---
 
-## Languages & tools
+## Tech stack
 
 | Area | Technologies |
 | :--- | :--- |
-| **Used in public projects** | `TypeScript` · `Java` · `SQL` |
-| **University coursework** | `Python` · `C` · `F#` · `Haskell` · `Assembly` |
-| **Other language exposure** | `Lisp` · `Prolog` |
-| **Web development** | React · Next.js · Tailwind CSS |
+| **Languages (public projects)** | TypeScript · Java · SQL |
+| **Languages (coursework)** | Python · C · F# · Haskell · Assembly |
+| **Other exposure** | Lisp · Prolog |
+| **Frontend** | React · Next.js · Tailwind CSS |
 | **Backend & databases** | Spring Boot · REST APIs · PostgreSQL · Supabase |
-| **Data & ML coursework** | PyTorch · Deep Learning · Natural Language Processing |
-| **Tools & testing** | Git · Linux/Unix shell · Docker · GitHub Actions · Vitest · Playwright · Testcontainers |
+| **Tools & testing** | Git · Linux · Docker · GitHub Actions · Vitest · Playwright · Testcontainers |
+| **AI/ML coursework** | PyTorch · Deep Learning · NLP |
 
-*The coursework and exposure rows show languages and technologies encountered at university, not claims of equal proficiency.*
+*Coursework and exposure do not imply equal proficiency.*
 
 ## Background
 
-**University of Copenhagen — Department of Computer Science (DIKU)**
+**University of Copenhagen — Computer Science (DIKU)**
 
-- **BSc in Computer Science:** My bachelor's thesis was about **Kerberoasting**, a credential attack technique associated with Kerberos and Active Directory environments.
-- **MSc in Computer Science (in progress):** I'm planning to focus my future master's thesis on **cybersecurity**. I haven't completed my master's thesis yet.
-- **Security coursework:** Proactive Computer Security and IT Security.
-- **Systems & software coursework:** Software Engineering and Architecture, Advanced Computer Systems, Computer Systems, and Reactive and Event-Based Systems.
-- **Programming-language coursework:** Advanced Programming, Programming Language Design, and Implementation of Programming Languages.
-- **Data & AI coursework:** Databases and Information Systems, Deep Learning, and Natural Language Processing.
+- **BSc in Computer Science:** Thesis on **Kerberoasting**, a credential attack technique targeting Kerberos/Active Directory environments.
+- **MSc in Computer Science (ongoing):** Interested in pursuing a cybersecurity-focused master's thesis.
+- **Relevant coursework:** Computer Security, Software Engineering & Architecture, Computer Systems, Programming Languages, Databases, Deep Learning, and NLP.
 
-## How I approach engineering
+## Engineering principles
 
-- **Build for people.** Make software useful, understandable, and maintainable.
-- **Design for correctness.** Use clear boundaries, automated testing, and reliable data handling.
-- **Keep security in mind.** Look beyond features to assumptions, vulnerabilities, and failure modes.
+- **Build for people:** Useful, understandable, maintainable software.
+- **Design for correctness:** Clear architecture, automated testing, reliable data handling.
+- **Think about security:** Question assumptions, identify vulnerabilities, and consider failure modes.
 
 ---
 
-<sub>Based in Copenhagen, Denmark. See my projects in GitHub's **Pinned** section below.</sub>
+<sub>Based in Copenhagen, Denmark. Explore my pinned repositories below.</sub>
