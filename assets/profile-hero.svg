@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Marius Greiersen — software engineer, University of Copenhagen">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#11161d"/><stop offset="1" stop-color="#171f27"/></linearGradient>
+ <linearGradient id="beam" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#44d8dc" stop-opacity=".58"/><stop offset="1" stop-color="#44d8dc" stop-opacity="0"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#32404b" stroke-width=".7" opacity=".28"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="330" rx="0"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="330" fill="url(#bg)"/>
+<rect width="1200" height="330" fill="url(#grid)"/>
+<path d="M722 0H1200V330H1018Z" fill="#1c2730" opacity=".75"/>
+<path d="M882 -20L1200 -20V96L1009 96Z" fill="#202c34" opacity=".8"/>
+<path d="M962 330L1200 106V172L1049 330Z" fill="#f5e31b" opacity=".09"/>
+<path d="M830 0L530 330" stroke="#32434b" stroke-width="1" opacity=".35"/>
+<!-- cyber-industrial edge language -->
+<path d="M32 29H128" stroke="#f5e31b" stroke-width="4" />
+<path d="M32 39V296" stroke="#f5e31b" stroke-width="5" />
+<path d="M32 296H113" stroke="#f5e31b" stroke-width="4" />
+<path d="M1185 19V84L1168 101" fill="none" stroke="#f5e31b" stroke-width="3"/>
+<path d="M1185 264V312H1130" fill="none" stroke="#f5e31b" stroke-width="3"/>
+<rect x="1145" y="24" width="10" height="34" transform="skewX(-20)" fill="#f5e31b" opacity=".9"/>
+<rect x="1164" y="24" width="10" height="34" transform="skewX(-20)" fill="#f5e31b" opacity=".68"/>
+<rect x="1183" y="24" width="10" height="34" transform="skewX(-20)" fill="#f5e31b" opacity=".4"/>
+<!-- left copy -->
+<text x="60" y="62" fill="#f5e31b" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3.8">MG / SOFTWARE ENGINEERING</text>
+<path d="M60 80H548" stroke="#73808b" stroke-width="1" opacity=".5"/>
+<text x="56" y="157" fill="#f4f6f7" font-family="Arial,Helvetica,sans-serif" font-size="75" font-weight="800" letter-spacing="-2.5">MARIUS</text>
+<text x="56" y="232" fill="#f4f6f7" font-family="Arial,Helvetica,sans-serif" font-size="75" font-weight="800" letter-spacing="-2.5">GREIERSEN<tspan fill="#f5e31b">.</tspan></text>
+<text x="61" y="282" fill="#bac8d1" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" letter-spacing=".4">Full-stack products. Reliable backends.</text>
+<!-- technical illustration on right, abstract but intelligible -->
+<g transform="translate(875 159)">
+ <circle r="112" stroke="#3f7780" stroke-width="1" fill="none" opacity=".58"/>
+ <circle r="87" stroke="#377b85" stroke-width="1" fill="none" opacity=".6"/>
+ <circle r="55" stroke="#42cbd0" stroke-width="1.8" fill="none" opacity=".85"/>
+ <circle r="31" stroke="#42cbd0" stroke-width="1" fill="none" opacity=".62"/>
+ <path d="M-145 0H145M0 -137V137" stroke="#51dfe3" stroke-width="1" opacity=".24"/>
+ <path d="M-112 0a112 112 0 0 1 224 0" stroke="#f5e31b" stroke-width="4" fill="none" stroke-dasharray="120 583" transform="rotate(40)"/>
+ <path d="M-87 0a87 87 0 0 1 174 0" stroke="#51dfe3" stroke-width="3" fill="none" stroke-dasharray="76 471" transform="rotate(231)"/>
+ <path d="M-18 -5L-2 13L26 -20" stroke="#e6f0f0" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter" fill="none"/>
+ <rect x="-5" y="-125" width="10" height="10" fill="#f5e31b" transform="rotate(35)"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2" font-weight="700">
+ <text x="1050" y="139" fill="#67dfe1">SYSTEMS</text>
+ <text x="1050" y="156" fill="#869fa4">/ BUILT</text>
+ <text x="1050" y="173" fill="#869fa4">/ TO LAST</text>
+</g>
+<path d="M1015 155H1041" stroke="#4cced4" stroke-width="1.5"/>
+<path d="M717 269H1132" stroke="#5b6b73" stroke-width="1" opacity=".6"/>
+<text x="718" y="289" fill="#8da2aa" font-size="12" font-family="Arial,Helvetica,sans-serif" letter-spacing="2">COPENHAGEN  /  DENMARK</text>
+<text x="1114" y="289" fill="#f5e31b" font-size="12" font-family="Arial,Helvetica,sans-serif" font-weight="700" letter-spacing="1">01</text>
+<path d="M0 322H1200" stroke="#f5e31b" stroke-width="4"/>
+</g>
+</svg>
