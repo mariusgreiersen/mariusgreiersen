@@ -1,54 +1,48 @@
-<img src="./assets/profile-hero.svg" alt="Marius Greiersen — full-stack development and backend engineering" width="100%" />
+<img src="./assets/profile-hero.svg" alt="Marius Greiersen — software engineering and cybersecurity" width="100%" />
 
 ### Hi, I'm Marius.
 
-I'm a **Computer Science master's student at the University of Copenhagen (DIKU)**. I build full-stack applications and backend systems, with a focus on clean architecture, correctness, and software that's useful to people.
+I'm a **Computer Science master's student at the University of Copenhagen (DIKU)**, interested in **cybersecurity, software engineering, and reliable systems**.
 
-**Interests:** Full-stack development · Backend engineering · Databases · Testing
+I enjoy building full-stack applications and backend services, understanding how software works under the hood, and exploring how to make it more secure.
 
-[**Explore my projects**](#selected-projects) · [**Technology**](#technology) · [**All repositories**](https://github.com/mariusgreiersen?tab=repositories)
+**Currently exploring:** Cybersecurity · Backend engineering · Software architecture
 
----
-
-## Selected projects
-
-### 01 / [JobFlow — Job Application Tracker](https://github.com/mariusgreiersen/jobflow-application-tracker)
-
-A full-stack application for organizing job applications, interviews, and follow-ups. Includes a drag-and-drop pipeline, dashboards, analytics, and a no-login demo mode.
-
-`Next.js` · `React` · `TypeScript` · `Supabase` · `Playwright`
-
-**Engineering focus:** Clean Architecture, accessible UI, automated testing, and CI.
-
-[View repository](https://github.com/mariusgreiersen/jobflow-application-tracker) · [Architecture notes](https://github.com/mariusgreiersen/jobflow-application-tracker/blob/main/docs/architecture.md)
-
-### 02 / [BookingCore — Reservation API](https://github.com/mariusgreiersen/bookingcore-api)
-
-A Java REST API for booking meeting rooms, designed to prevent double-bookings even when requests arrive concurrently.
-
-`Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `Testcontainers`
-
-**Engineering focus:** Database-enforced consistency, concurrency testing, and reliable API design.
-
-[View repository](https://github.com/mariusgreiersen/bookingcore-api)
+[**Languages & tools**](#languages--tools) · [**Background**](#background) · [**Repositories**](https://github.com/mariusgreiersen?tab=repositories)
 
 ---
 
-## Technology
+## Languages & tools
 
-| Area | Tools |
+| Area | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, Java, SQL |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend & data** | Spring Boot, REST APIs, PostgreSQL, Supabase |
-| **Quality & tooling** | Git, Docker, GitHub Actions, Vitest, Playwright, Testcontainers |
+| **Used in public projects** | `TypeScript` · `Java` · `SQL` |
+| **University coursework** | `Python` · `C` · `F#` · `Haskell` · `Assembly` |
+| **Other language exposure** | `Lisp` · `Prolog` |
+| **Web development** | React · Next.js · Tailwind CSS |
+| **Backend & databases** | Spring Boot · REST APIs · PostgreSQL · Supabase |
+| **Data & ML coursework** | PyTorch · Deep Learning · Natural Language Processing |
+| **Tools & testing** | Git · Linux/Unix shell · Docker · GitHub Actions · Vitest · Playwright · Testcontainers |
 
-## How I build
+*The coursework and exposure rows show languages and technologies encountered at university, not claims of equal proficiency.*
 
-- **Useful first.** Software should solve a real problem and be easy to understand.
-- **Correct by design.** Prefer clear boundaries, tests, and trustworthy data.
-- **Details matter.** Performance, accessibility, and maintainability are part of the product.
+## Background
+
+**University of Copenhagen — Department of Computer Science (DIKU)**
+
+- **BSc in Computer Science:** My bachelor's thesis was about **Kerberoasting**, a credential attack technique associated with Kerberos and Active Directory environments.
+- **MSc in Computer Science (in progress):** I'm planning to focus my future master's thesis on **cybersecurity**. I haven't completed my master's thesis yet.
+- **Security coursework:** Proactive Computer Security and IT Security.
+- **Systems & software coursework:** Software Engineering and Architecture, Advanced Computer Systems, Computer Systems, and Reactive and Event-Based Systems.
+- **Programming-language coursework:** Advanced Programming, Programming Language Design, and Implementation of Programming Languages.
+- **Data & AI coursework:** Databases and Information Systems, Deep Learning, and Natural Language Processing.
+
+## How I approach engineering
+
+- **Build for people.** Make software useful, understandable, and maintainable.
+- **Design for correctness.** Use clear boundaries, automated testing, and reliable data handling.
+- **Keep security in mind.** Look beyond features to assumptions, vulnerabilities, and failure modes.
 
 ---
 
-<sub>Based in Denmark · [github.com/mariusgreiersen](https://github.com/mariusgreiersen)</sub>
+<sub>Based in Copenhagen, Denmark. See my projects in GitHub's **Pinned** section below.</sub>
