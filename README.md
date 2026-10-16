@@ -1,12 +1,8 @@
 <img src="./assets/profile-hero.svg" alt="Marius Greiersen — software engineering and cybersecurity" width="100%" />
 
-### Hi, I'm Marius.
+Computer Science master's student at the **University of Copenhagen (DIKU)**, interested in **cybersecurity, software engineering, and reliable systems**.
 
-I'm a **Computer Science master's student at the University of Copenhagen (DIKU)** with an interest in **cybersecurity, software engineering, and reliable systems**.
-
-I enjoy building full-stack applications and backend services, understanding systems under the hood, and making software more secure and maintainable.
-
-**Current interests:** Cybersecurity · Backend engineering · Software architecture
+I enjoy building full-stack applications and backend services, exploring software architecture, and understanding how systems work under the hood.
 
 [**Tech stack**](#tech-stack) · [**Background**](#background) · [**Repositories**](https://github.com/mariusgreiersen?tab=repositories)
 
@@ -16,7 +12,7 @@ I enjoy building full-stack applications and backend services, understanding sys
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages (public projects)** | TypeScript · Java · SQL |
+| **Languages (projects)** | TypeScript · Java · SQL |
 | **Languages (coursework)** | Python · C · F# · Haskell · Assembly |
 | **Other exposure** | Lisp · Prolog |
 | **Frontend** | React · Next.js · Tailwind CSS |
@@ -28,17 +24,11 @@ I enjoy building full-stack applications and backend services, understanding sys
 
 ## Background
 
-**University of Copenhagen — Computer Science (DIKU)**
+**University of Copenhagen — Department of Computer Science (DIKU)**
 
-- **BSc in Computer Science:** Thesis on **Kerberoasting**, a credential attack technique targeting Kerberos/Active Directory environments.
-- **MSc in Computer Science (ongoing):** Interested in pursuing a cybersecurity-focused master's thesis.
-- **Relevant coursework:** Computer Security, Software Engineering & Architecture, Computer Systems, Programming Languages, Databases, Deep Learning, and NLP.
-
-## Engineering principles
-
-- **Build for people:** Useful, understandable, maintainable software.
-- **Design for correctness:** Clear architecture, automated testing, reliable data handling.
-- **Think about security:** Question assumptions, identify vulnerabilities, and consider failure modes.
+- BSc in Computer Science
+- MSc in Computer Science (in progress)
+- **Relevant coursework:** Computer Security, Software Engineering & Architecture, Computer Systems, Programming Languages, Databases, Deep Learning, and Natural Language Processing.
 
 ---
 
