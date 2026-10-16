@@ -12,7 +12,7 @@ I enjoy building full-stack applications and backend services, exploring softwar
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages (projects)** | TypeScript · Java · SQL |
+| **Languages (public projects)** | TypeScript · Java · SQL |
 | **Languages (coursework)** | Python · C · F# · Haskell · Assembly |
 | **Other exposure** | Lisp · Prolog |
 | **Frontend** | React · Next.js · Tailwind CSS |
@@ -29,7 +29,3 @@ I enjoy building full-stack applications and backend services, exploring softwar
 - BSc in Computer Science
 - MSc in Computer Science (in progress)
 - **Relevant coursework:** Computer Security, Software Engineering & Architecture, Computer Systems, Programming Languages, Databases, Deep Learning, and Natural Language Processing.
-
----
-
-<sub>Based in Copenhagen, Denmark. Explore my pinned repositories below.</sub>
